@@ -83,6 +83,20 @@
       "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 12
+    },
+    {
+      "titulo": "Tutorial: Como CRIAR um CHATBOT com a API do Google GEMINI? | IAs Generativas",
+      "descricao": "269 visualizações",
+      "url": "https://www.youtube.com/embed/rGchz3aKFt8?t=1",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 13
+    },
+    {
+      "id": "ddb6",
+      "titulo": "Como criar um projeto para um portfólio de Machine Learning? | Hipsters: Portfólio Dev",
+      "descricao": "8 mil visualizações",
+      "url": "https://www.youtube.com/embed/tegeNePX47A",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg"
     }
   ]
 }
